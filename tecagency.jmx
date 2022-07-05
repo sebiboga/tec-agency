@@ -234,8 +234,8 @@ vars.putObject(&quot;jobList&quot;,jobList);</stringProp>
 var k = vars.get(&quot;k&quot;);
 var title = vars.get(&quot;title_&quot;+k);
 var link  = vars.get(&quot;link_&quot;+k);
-var country = vars.get(&quot;country_&quot;+k);
-var city =  vars.get(&quot;city_&quot;+k);
+var country = vars.get(&quot;country&quot;);
+var city =  vars.get(&quot;city&quot;);
 
 String this_job = &apos;{&quot;id&quot;:&quot;&apos;+id+&apos;&quot;,&quot;job_title&quot;:&quot;&apos;+title+&apos;&quot;, &quot;job_link&quot;:&quot;&apos;+link+&apos;&quot;,&quot;company&quot;:&quot;${company}&quot;,&quot;country&quot;:&quot;&apos;+country+&apos;&quot;,&quot;city&quot;:&quot;&apos;+city+&apos;&quot;}&apos;;
 var jobList = vars.getObject(&quot;jobList&quot;);
