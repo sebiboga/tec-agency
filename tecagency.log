@@ -148,3 +148,10 @@
 2022-07-05 17:25:56,605 INFO o.a.j.t.JMeterThread: Thread finished: scraper 1-1
 2022-07-05 17:25:56,605 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
 2022-07-05 17:25:56,605 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2022-07-05 17:32:07,284 INFO o.a.j.g.a.Load: Loading file: C:\github\sebi\tec-agency\tecagency_v3.jmx
+2022-07-05 17:32:07,284 INFO o.a.j.s.FileServer: Set new base='C:\github\sebi\tec-agency'
+2022-07-05 17:32:07,284 INFO o.a.j.s.SaveService: Loading file: C:\github\sebi\tec-agency\tecagency_v3.jmx
+2022-07-05 17:32:07,330 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-07-05 17:32:07,359 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-07-05 17:32:07,402 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-07-05 17:32:07,443 INFO o.a.j.s.FileServer: Set new base='C:\github\sebi\tec-agency'
